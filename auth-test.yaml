@@ -1,0 +1,10 @@
+# Cookies to be removed when replaying requests
+
+# Headers to be removed  when replaying requests
+User-Agent
+Cache-Control
+Accept-Language
+
+# Domains to replay
+example.com
+g1.globo.com
